@@ -34,7 +34,7 @@ The usage is pretty easy. After you're done with the code just compile the tic t
 
 #### Starting the game
 
-You can start the game by using /challenge or /ttt followed by your friends' game id.
+You can start the game by using /challenge followed by your friends' game id.
 Note that your friend must be online.
 
 After that, your friend has 10 seconds to accept your request by using /accept. They also can deny your request by using the /deny command.
@@ -56,6 +56,3 @@ You can also load your game by using the /load command followed by your previous
 
 [Back To The Top](#TicTacToe)
 
----
-
-[Back To The Top](#TicTacToe)
